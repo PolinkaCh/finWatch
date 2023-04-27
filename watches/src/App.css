@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  background-size: cover;
+}
+.welcome{
+  margin: auto;
+}
+.btn{
+    border: 2px black solid;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    padding: auto;
+    margin-top: 10vw;
+    margin-bottom: 28vw;
+    background-color: lightblue ;
+    cursor: pointer;
+}
